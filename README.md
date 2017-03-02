@@ -1,5 +1,5 @@
 # DoubleVSFloat
-double型とfloat型の計算速度(sqrt)を測定する
+平方根(sqrt)の計算速度を調べる。double型とfloat型で速度に違いが出るか？
 測定結果
 
 ||x86|x64|
